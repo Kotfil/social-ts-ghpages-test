@@ -47,7 +47,6 @@ const App = (props : PropsType) => {
         </BrowserRouter>
     );
 }
-//git 
 
 export default App;
 
