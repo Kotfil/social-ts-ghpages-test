@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/social-ts-ghpages-test/static/css/main.008a704e.chunk.css",
+    "main.js": "/social-ts-ghpages-test/static/js/main.3f409774.chunk.js",
+    "main.js.map": "/social-ts-ghpages-test/static/js/main.3f409774.chunk.js.map",
+    "runtime-main.js": "/social-ts-ghpages-test/static/js/runtime-main.194f7187.js",
+    "runtime-main.js.map": "/social-ts-ghpages-test/static/js/runtime-main.194f7187.js.map",
+    "static/js/2.d54f904f.chunk.js": "/social-ts-ghpages-test/static/js/2.d54f904f.chunk.js",
+    "static/js/2.d54f904f.chunk.js.map": "/social-ts-ghpages-test/static/js/2.d54f904f.chunk.js.map",
+    "index.html": "/social-ts-ghpages-test/index.html",
+    "precache-manifest.4e94c1d2b053b274afbc04dfd7648d5e.js": "/social-ts-ghpages-test/precache-manifest.4e94c1d2b053b274afbc04dfd7648d5e.js",
+    "service-worker.js": "/social-ts-ghpages-test/service-worker.js",
+    "static/css/main.008a704e.chunk.css.map": "/social-ts-ghpages-test/static/css/main.008a704e.chunk.css.map",
+    "static/js/2.d54f904f.chunk.js.LICENSE.txt": "/social-ts-ghpages-test/static/js/2.d54f904f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.194f7187.js",
+    "static/js/2.d54f904f.chunk.js",
+    "static/css/main.008a704e.chunk.css",
+    "static/js/main.3f409774.chunk.js"
+  ]
+}
