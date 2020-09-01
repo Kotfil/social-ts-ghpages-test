@@ -9,7 +9,11 @@ export type PropsType = {
 const Message = (props: PropsType) => {
 
     return(
+        <>
+
         <div className={s.message}>{props.messages}</div>
+            <p> add new Parahraph</p>
+        </>
     )
 };
 
