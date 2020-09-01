@@ -20,5 +20,6 @@ const Message = (props: PropsType) => {
 };
 
 //comment from new branch
+//comment from new branch2
 
 export default Message
